@@ -1,0 +1,219 @@
+{
+    "background_color": "#000000",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Donate to Care",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Donate to Care",
+    "start_url":"index.html",
+    "theme_color": "#000000",
+    "id": "Donate to Care",
+    "icons": [
+        {
+            "sizes": "16x16",
+            "src": "./assets/icones/icons/_/16.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "20x20",
+            "src": "./assets/icones/icons/_/20.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "29x29",
+            "src": "./assets/icones/icons/_/29.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "32x32",
+            "src": "./assets/icones/icons/_/32.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "40x40",
+            "src": "./assets/icones/icons/_/40.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "48x48",
+            "src": "./assets/icones/icons/_/48.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "50x50",
+            "src": "./assets/icones/icons/_/50.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "55x55",
+            "src": "./assets/icones/icons/_/55.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "57x57",
+            "src": "./assets/icones/icons/_/57.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "58x58",
+            "src": "./assets/icones/icons/_/58.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "60x60",
+            "src": "./assets/icones/icons/_/60.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "64x64",
+            "src": "./assets/icones/icons/_/64.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "66x66",
+            "src": "./assets/icones/icons/_/66.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "72x72",
+            "src": "./assets/icones/icons/_/72.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "76x76",
+            "src": "./assets/icones/icons/_/76.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "80x80",
+            "src": "./assets/icones/icons/_/80.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "87x87",
+            "src": "./assets/icones/icons/_/88.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "88x88",
+            "src": "./assets/icones/icons/_/88.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "92x92",
+            "src": "./assets/icones/icons/_/92.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "100x100",
+            "src": "./assets/icones/icons/_/100.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "102x102",
+            "src": "./assets/icones/icons/_/102.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "114x114",
+            "src": "./assets/icones/icons/_/114.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "120x120",
+            "src": "./assets/icones/icons/_/120.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "128x128",
+            "src": "./assets/icones/icons/_/128.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "144x144",
+            "src": "./assets/icones/icons/_/144.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "152x152",
+            "src": "./assets/icones/icons/_/152.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "167x167",
+            "src": "./assets/icones/icons/_/167.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "172x172",
+            "src": "./assets/icones/icons/_/172.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "180x180",
+            "src": "./assets/icones/icons/_/180.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "192x192",
+            "src": "./assets/icones/icons/_/192.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "196x196",
+            "src": "./assets/icones/icons/_/196.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "256x256",
+            "src": "./assets/icones/icons/_/256.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "sizes": "512x512",
+            "src": "./assets/icones/icons/_/512.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }, 
+        {
+            "sizes": "1024x1024",
+            "src": "./assets/icones/icons/_/1024.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+        
+    ]
+}
